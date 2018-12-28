@@ -4,7 +4,7 @@
 ・デバイスドライバーを作成し、何かを行う。
 
 ## 内容
-講義内容（https://github.com/ryuichiueda/robosys2018)に沿ってデバイスドライバーを作成し、LEDの点灯、消灯を行った。
+講義内容（ https://github.com/ryuichiueda/robosys2018 )に沿ってデバイスドライバーを作成し、LEDの点灯、消灯を行った。
 
 ## 使い方
 ・コンパイル：make
