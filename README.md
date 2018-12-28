@@ -6,6 +6,7 @@
 
 ## 使い方
 ・コンパイル：make
+
 ・カーネルモジュールの追加：sudo insmod myled.ko
 ・権限の付与：sudo chmod 666 /dev/myled0
 ・LEDの点灯：echo 1 >/dev/myled0
