@@ -19,6 +19,6 @@
 ・LEDの消灯：echo 0 >/dev/myled0
 
 ・後処理：sudo rm /dev/myled0
-　　　　　sudo rmmod myled0
+　　　　sudo rmmod myled0
 
 # ライセンス
