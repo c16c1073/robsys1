@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=f2_P5h6E6ag&feature=youtu.be
 
 
 # ライセンス
-GNU General Public License Version 3
+ MIT
